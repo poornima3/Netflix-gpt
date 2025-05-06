@@ -14,9 +14,32 @@
     plugins: [],
   }
 - Header
+- Routing of App
 - Login Form
 - Sign Up Form
-
+- Form Validation 
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create Sign User Account
+- Implement Sign In User Api
+- Created Redux Store with user slice
+- Implemented Sign Out Feature
+- Update Profile
+- Fetch from TMDB Movies 
+- BugFix: Sign up user display name and profile picture update
+- BugFix: if the user is not logged in Redirect / browse to Login page and vice-versa
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to the constants file
+- Register TMDB Api & create an app & get access token
+- Get data from TMDB now playing movies list API
+- Custom Hook for Now plaing movies
+- Update Store with movies Data
+- Planning for Main Contianer & secoundary Container
+- Fetch Data for Trailer Video
+- Update Store with trailer video data
+- Embedded the Youtube video and make it auto play and mute
+- Tailwind Classes to make the Container look awesome
 
 - inside index.css add
   @tailwind base;
